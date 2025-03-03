@@ -1,4 +1,4 @@
-var mysql      = require('mysql');
+import mysql from 'mysql';
 var connection = mysql.createConnection({
   host     : 'database-da-live.cfukc8fa9ncd.us-east-1.rds.amazonaws.com',
   user     : 'admin',
