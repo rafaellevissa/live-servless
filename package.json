@@ -1,0 +1,22 @@
+{
+  "name": "live-servless",
+  "version": "1.0.0",
+  "description": "projeto servless feito em live",
+  "main": "handle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellevissa/live-servless.git"
+  },
+  "author": "Levi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaellevissa/live-servless/issues"
+  },
+  "homepage": "https://github.com/rafaellevissa/live-servless#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
